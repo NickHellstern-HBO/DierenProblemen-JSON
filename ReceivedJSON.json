@@ -1,15 +1,12 @@
 {
     "glossary": {
-        "title": "JSON",
+        "title": "JSON test",
 		"GlossDiv": {
-            "title": "S",
+            "title": "JSON title",
 			"GlossList": {
                 "GlossEntry": {
-                    "ID": "SGML",
-					"SortAs": "SGML",
+                    "ID": "Entry 1",
 					"GlossTerm": "Standard Generalized Markup Language",
-					"Acronym": "SGML",
-					"Abbrev": "ISO 8879:1986",
 					"GlossDef": {
                         "para": "A meta-markup language, used to create markup languages such as DocBook.",
 						"GlossSeeAlso": ["GML", "XML"]
